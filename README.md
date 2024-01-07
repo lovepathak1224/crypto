@@ -4,7 +4,8 @@
 
 Crypto App is an Android application that provides real-time cryptocurrency data using the CoinGecko API. The app is designed with three main activities: Splash Screen, Main Screen, and Home Screen. The Main Screen displays a list of cryptocurrencies with their names, symbols, and prices, along with a search functionality. Clicking on a cryptocurrency item redirects the user to the Home Screen, providing more detailed information about the selected cryptocurrency.
 
-![crypto](https://github.com/lovepathak12/crypto/assets/150338571/61882ff9-c8f1-47af-b6c2-444fa6411a7a)
+![crypto](https://github.com/lovepathak1224/crypto/assets/155883684/e6d21e33-0ee0-44f5-8085-84c4e7a8b4f8)
+
 
 
 
